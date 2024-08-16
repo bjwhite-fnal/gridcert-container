@@ -1,4 +1,3 @@
-#FROM docker.io/library/centos:7
 FROM registry.access.redhat.com/ubi8/python-36
 USER root
 
